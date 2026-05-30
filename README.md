@@ -457,19 +457,3 @@ The most important thing to do right now is not to hire a compliance consultant.
 The Act will be enforced. Market surveillance authorities across EU member states are actively building technical capacity. For enterprise teams, the question is not whether to comply, but how to do so without creating compliance bureaucracy that slows down development. The answer is to build compliance into the platform layer: logging, classification, documentation, and oversight baked into how agent systems are built: rather than bolted on afterward.
 
 For a unified platform that bakes compliance-grade logging, oversight, and governance into agent orchestration, explore [Omnithium](https://omnithium.ai). See our [pricing](https://omnithium.ai/pricing) for plans that scale with your compliance needs.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/eu-ai-act-agent-compliance).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
